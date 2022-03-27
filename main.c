@@ -1,4 +1,5 @@
-/*program to input electricity unit charges & calculate electricity bill
+/*Sugata mitra team
+program to input electricity unit charges & calculate electricity bill
 for first 50 units Rs.2/unit
 for next 100 units Rs.2.50/unit
 for next 100 units Rs.5.25/unit
