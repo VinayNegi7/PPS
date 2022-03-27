@@ -1,4 +1,5 @@
-/*program to convert temperature from  Celsius to Fahrenheit*/
+/*Sugata mitra team
+program to convert temperature from  Celsius to Fahrenheit*/
  #include <stdio.h>
 void  main(){
  float celsius, fahrenheit;
