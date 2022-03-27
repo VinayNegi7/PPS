@@ -1,11 +1,10 @@
-/*Sugata mitra team
-program to convert temperature from  Celsius to Fahrenheit*/
- #include <stdio.h>
-void  main(){
- float celsius, fahrenheit;
- printf(" enter temperature in celsius:\n");
- scanf("%f",& celsius);
- fahrenheit= (celsius * 1.8)+32;
- printf("\n Equivalent fahrenheit value is %f", fahrenheit);
- getch();
+#include <stdio.h>
+int a,b,c;
+void  main()
+{
+    a=10;
+    b=20;
+    c=a+b;
+    printf("%d",c);
+     d
 }
