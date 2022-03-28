@@ -1,4 +1,5 @@
-//calculate the library fine
+/* Sugata mitra team
+calculate the library fine*/
 #include<stdio.h>
 void main(){int days , bookprice; float fine ;
 printf("Enter No. of Days:");
