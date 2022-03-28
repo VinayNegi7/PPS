@@ -1,3 +1,5 @@
+/* Sugata mitra team
+program to calculate SI*/
 #include<stdio.h>
 int P,R,T;float SI;
 void main()
