@@ -1,4 +1,5 @@
-/*program to calculate the factorial*/
+/*Sugata mitra team
+program to calculate the factorial*/
 #include <stdio.h>
 int main()
 {int i , n=5 ,fact=1;
