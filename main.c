@@ -1,3 +1,5 @@
+/*Sugat mitra team
+program to find biggest of two numbers*/
 #include <stdio.h>
 #include <conio.h>
 void main(){
