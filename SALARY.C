@@ -1,3 +1,5 @@
+/*SUGATAMITRA TEAM 
+PROGRAM TO CALCULATE SALARY*/
 #include<stdio.h>
 int main(){
 float basic , gross , da , hra ;
