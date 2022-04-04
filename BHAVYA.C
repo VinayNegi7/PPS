@@ -1,3 +1,5 @@
+/* Sugata mitra tea,
+program to calculate insurance*/
 #include<stdio.h>
 void main()//insurence for married males of age 25+
 {
