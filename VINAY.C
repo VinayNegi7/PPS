@@ -1,7 +1,11 @@
-#include<stdio.h>                    /
+/* Sugat mitra team
+program to calcualte loan installement*/
+#include<stdio.h>
+#include<conio.h>
 void main(){
 float loanamt,interest,monthlypayment;
 float i,firstmon,secondmon;
+  clrscr();
 printf("enter the loan amount");
 scanf("%f",&loanamt);
 printf("interest rate");
@@ -20,6 +24,7 @@ secondmon=i-monthlypayment;
 //second month payment with interest//
 printf("remaning amount need to py after 1st installement:%2f\n",firstmon);
 printf("remaining amount need to pay after 2nd installement:%2f\n",secondmon);
+getch();
 }
 
 
