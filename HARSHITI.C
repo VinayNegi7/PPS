@@ -1,3 +1,5 @@
+/*sugata mitra team
+program to calculate tax on income*/
 #include<stdio.h>
 #include<conio.h>
 void main()
