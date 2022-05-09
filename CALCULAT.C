@@ -1,18 +1,25 @@
-#include<stdio.h>
-#include<conio.h>
-void main()
+#include <stdio.h>
+#include <conio.h>
+void main(){
+char op;
+int a,b,c;
+a=10,b=20;
+clrscr();
+printf("please enter an operator(+,-,*,/)");
+scanf("%c",&op);
+
+switch(op)
 {
-int a=20 , b=10 , c ;
-char ch ;
-printf("\n enter the operator :");
-scanf("%c",&ch);
-switch(ch)
-{
-case '+' : c=a+b ; break ;
-case '-' : c=a-b ; break ;
-case '*' : c=a*b ; break ;
-case '/' : c=a/b ; break ;
-default : printf("operation not understood");
+case '+':c=a+b;break;
+case '-':c=a-b;break;
+case '*':c=a*b;break;
+case '/':c=a/b;break;
+//in case of another inserted
+default:printf("operator not understood");
 }
-printf("value of c is : %d",c,'\n');
+printf("%d",c);
+getch();
 }
+
+
+
