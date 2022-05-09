@@ -1,3 +1,4 @@
+/* program of a simple calculator*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
