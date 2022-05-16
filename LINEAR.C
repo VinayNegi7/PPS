@@ -1,3 +1,5 @@
+/*sugata mitra team
+code for linear search*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
