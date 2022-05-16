@@ -1,3 +1,5 @@
+/* sugata mitra team
+code for selection sort*/
 #include<stdio.h>
 int main(){
 int arr[10]={6,12,0,18,11};
