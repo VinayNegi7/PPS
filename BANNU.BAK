@@ -1,3 +1,5 @@
+/*sugata mitra team
+program to swap using pointers*/
 #include<stdio.h>
 int main()
 {
