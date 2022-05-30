@@ -1,4 +1,5 @@
-/*program for bubble sorting*/
+/* sugata mitra team
+program for bubble sorting*/
 #include<stdio.h>
 #include<conio.h>
 int main(){
