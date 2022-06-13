@@ -1,3 +1,5 @@
+\* sugata mitra team,
+code for multiply two matrices*\
 #include<stdio.h>
 #include<conio.h>
 int main()
