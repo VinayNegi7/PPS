@@ -1,3 +1,5 @@
+\*sugata mitra team
+program for reverse of string*\
 #include <stdio.h>
 #include <string.h>
 
