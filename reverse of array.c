@@ -1,3 +1,5 @@
+/*sugata mitra team
+program for reverse of array*/
 #include <stdio.h>
 
 int main() {
