@@ -1,3 +1,4 @@
+/*program for transpose of matrix*/
 #include <stdio.h>
 int main() {
   int a[10][10], n, i, j;
